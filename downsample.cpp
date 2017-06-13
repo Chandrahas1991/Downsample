@@ -5,7 +5,7 @@
  *  @date      5/21/2017  
  *  @version 1.0 
  *  
- *  @brief Programming assignment for Seung Lab 
+ * 
  *
  *  @section DESCRIPTION
  *  
